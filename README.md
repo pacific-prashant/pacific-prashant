@@ -1,17 +1,18 @@
 # Be Pacific!! &nbsp; [![GitHub followers](https://img.shields.io/github/followers/pacific-prashant.svg?style=social&label=Followers)](https://github.com/pacific-prashant?tab=followers)  <img align="right" src="https://profile-counter.glitch.me/pacific-prashant/count.svg" />
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=63C5DA&size=30&lines=Hey!+It's+Prashant!;I'm+a+learning+developer...;I'm+a+CRAZY+Badminton+Player;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
 
-## Here's some fun facts about me:
+## Here's some fun facts about me: <img width="120" align="right" src="https://user-images.githubusercontent.com/83504276/146778999-93e901fd-80eb-4118-8a0d-39df011e32b4.png">
 
   -  **I am a ***Coder***⚡🧙🏻‍♂️**
   -  **I'm a enthusiastic web designer👩🏻‍💻**
   -  **I am a true Astronomy lover 🔬**
+  -  **I'm eager to Learn and udertake new challenges 🌊**
 
-<br><br>
+<hr><br>
 
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pacific-prashant&theme=radical" />
-
-<br><br>
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=pacific-prashant&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=0A0015&fire=00B1DD&ring=00C0DD&currStreakLabel=00C6DD">
+     
+<br><hr>
 
 ### Skills I am inheriting : 🛠
 
