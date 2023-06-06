@@ -4,7 +4,7 @@
 ## Here's some fun facts about me: <img width="120" align="right" src="https://github.com/pacific-prashant/pacific-prashant/assets/83504276/aeb1a87c-6d0e-4d46-b34d-3a9de461abe3">
 
   -  **I am a ***Coder***⚡🧙🏻‍♂️**
-  -  **I'm a enthusiastic web designer👩🏻‍💻**
+  -  **I'm a enthusiastic Graphic Designer👩🏻‍💻**
   -  **I am a true Astronomy lover 🔬**
   -  **I'm eager to Learn and udertake new challenges 🌊**
 
